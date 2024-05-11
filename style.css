@@ -8,6 +8,12 @@
     text-decoration: none;
 }
 
+@font-face {
+    font-family: 'Mak';
+    src: url('/img/MAK.otf') format('opentype');
+}
+
+
 body{
     width: 100%;
     height: 100vh;
